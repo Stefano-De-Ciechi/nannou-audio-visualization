@@ -1,0 +1,10 @@
+[package]
+name = "nannou-audio-visualization"
+version = "0.1.0"
+edition = "2021"
+author = "Stefano De Ciechi"
+
+[dependencies]
+nannou = "0.18.0"
+nannou_audio = "0.18.0"
+ringbuf = "0.2.2"
